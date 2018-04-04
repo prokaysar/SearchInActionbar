@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Search in actionbar Demo</string>
+    <string-array name="list">
+        <item>Bangladesh</item>
+        <item>Brmuda</item>
+        <item>Canada</item>
+        <item>China</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+        <item>Vutan</item>
+        <item>Austria</item>
+        <item>Argentina</item>
+        <item>India</item>
+        <item>Vietnam</item>
+    </string-array>
+</resources>
